@@ -1,0 +1,79 @@
+::selection {
+  background-color: #feea3b;
+  color: #fff;
+}
+::-moz-selection {
+  background-color: #feea3b;
+  color: #fff;
+}
+
+a {
+  color: #feea3b;
+  text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+  color: #feea3b;
+  text-decoration: none;
+}
+
+.list-style-theme li:before,
+.color-theme {
+  color: #feea3b; 
+}
+
+
+.progress-levels .progress-box .bar .bar-fill,
+.progress-levels .progress-box .bar .bar-fill:after,
+.header-style-02 .navbar .top-menu .nav-link:hover:after,
+.header-style-02 .navbar .top-menu .nav-link.active:after,
+.list-style-2 li:before,
+.list-style-3 li:before,
+.accordion-04 .mrig-heading,
+.accordion-05 .mrig-heading,
+.accordion-06 .mrig-heading,
+.accordion-07 .mrig-heading,
+.theme-bg,
+.m-btn-icon,
+.m-btn,
+.badge-primary, 
+.nav-pills .nav-link.active, 
+.nav-pills .show > .nav-link, 
+.bg-primary,
+.btn-primary,
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover,
+.pagination li a:focus, 
+.pagination li a:hover, 
+.pagination li span:focus, 
+.pagination li span:hover,
+.page-item.active .page-link,
+.list-style-tag li a {
+  background: #feea3b;
+}
+
+.btn-primary,
+.m-btn,
+.list-style-4.list-style-color li {
+  border-color: #feea3b;  
+}
+
+.border-theme { border-color: #feea3b; }
+.border-theme-b { border-bottom-color: #feea3b; }
+.border-theme-t { border-top-color: #feea3b; }
+.border-theme-l { border-left-color: #feea3b; }
+.border-theme-r { border-right-color: #feea3b; }
+
+
+.theme-g-bg{
+  background: #feea3b;
+  background: -moz-linear-gradient(left, #feea3b 0%, #000 100%);
+  background: -webkit-linear-gradient(left, #feea3b 0%,#000 100%);
+  background: linear-gradient(to right, #feea3b 0%,#000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feea3b', endColorstr='#000',GradientType=1 );
+}
